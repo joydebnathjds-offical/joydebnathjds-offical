@@ -2,37 +2,26 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Joy%20Debnath&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Blogger%20%7C%20Entrepreneur&descAlignY=60&descSize=18&descColor=a8daff" />
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Joy+Debnath+👋;Full+Stack+Developer+💻;AI+%26+SaaS+Builder+🤖;Open+Source+Contributor+🌱;Turning+Ideas+Into+Products+🚀" alt="Typing SVG" />
-
-</div>
-
 <br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-58a6ff?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" />
+<!-- Animated text badges instead of broken typing SVG -->
+<img src="https://img.shields.io/badge/💻%20Full%20Stack-Developer-58a6ff?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/AI-Enthusiast-ff6b6b?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🤖%20AI-Enthusiast-ff6b6b?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-2dba4e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🌱%20Open%20Source-Contributor-2dba4e?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Blogger-%26%20Writer-f0883e?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/✍️%20Blogger-%26%20Writer-f0883e?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=joydebnathjds-offical&label=Profile+Views&color=58a6ff&style=flat-square" />
 &nbsp;
+<img src="https://img.shields.io/github/followers/joydebnathjds-offical?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117" />
+&nbsp;
 <img src="https://img.shields.io/badge/Based%20In-Bangladesh%20🇧🇩-2dba4e?style=flat-square&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Available%20for%20Collabs-58a6ff?style=flat-square&labelColor=0d1117" />
-&nbsp;
-<a href="https://github.com/joydebnathjds-offical?tab=followers">
-<img src="https://img.shields.io/github/followers/joydebnathjds-offical?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117" />
-</a>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collabs%20✅-58a6ff?style=flat-square&labelColor=0d1117" />
 
 </div>
 
@@ -58,7 +47,7 @@
 - 🌱 Learning **Advanced React, AI Integrations & Cloud**
 - 💡 Passionate about **Automation, Blogging & Open Source**
 - 🧠 Exploring the frontier of **AI × Web Development**
-- ✍️ Writing tech articles at **[The Blog Arena](https://agent-clone-84410621.figma.site/)**
+- ✍️ Writing tech articles at **[The Blog Arena](https://joydebnathjds.blogspot.com/)**
 - 🌍 Believer that **code can change the world**
 - 📫 Contact: **emotionalboy5904@gmail.com**
 - ⚡ Fun fact: I debug with `console.log` and I'm proud of it 😄
@@ -162,21 +151,9 @@
 &nbsp;
 <img height="180em" src="https://streak-stats.demolab.com?user=joydebnathjds-offical&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydebnathjds-offical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&layout=compact&langs_count=12" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=joydebnathjds-offical&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydebnathjds-offical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&layout=compact&langs_count=12" />
 
 </div>
 
@@ -192,89 +169,19 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 My Projects
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joydebnathjds-offical/joydebnathjds-offical/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joydebnathjds-offical/joydebnathjds-offical/output/github-snake.svg" />
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/joydebnathjds-offical/joydebnathjds-offical/output/github-snake-dark.svg" width="100%" />
-</picture>
+| # | 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
+|:-:|:-----------|:--------------|:---------|:-------:|
+| 01 | 🤖 **BlogPilot AI** | AI-powered blog content generator & auto-publisher | Next.js · OpenAI · MongoDB | [View](https://agent-clone-84410621.figma.site/) |
+| 02 | 🎨 **AI Image Generator** | Text-to-image web app using Stable Diffusion API | React · Python · Firebase | Soon |
+| 03 | 🔧 **Chrome Extension Toolkit** | Developer productivity Chrome extensions bundle | JS · Chrome APIs | Soon |
+| 04 | 🌐 **Portfolio Website** | Personal portfolio with interactive animations | Next.js · Tailwind | [View](https://agent-clone-84410621.figma.site/) |
+| 05 | ✍️ **The Blog Arena** | Tech blogging platform for developers | WordPress · Custom Theme | [Visit](https://joydebnathjds.blogspot.com/) |
 
 </div>
-
-<details>
-<summary>⚙️ <b>Snake Animation Setup — Click to expand</b></summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/joydebnathjds-offical/blogpilot-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joydebnathjds-offical&repo=blogpilot-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" />
-</a>
-&nbsp;
-<a href="https://github.com/joydebnathjds-offical/ai-image-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joydebnathjds-offical&repo=ai-image-generator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/joydebnathjds-offical/chrome-extension-toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joydebnathjds-offical&repo=chrome-extension-toolkit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" />
-</a>
-&nbsp;
-<a href="https://github.com/joydebnathjds-offical/portfolio-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joydebnathjds-offical&repo=portfolio-website&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" />
-</a>
-
-</div>
-
-<br/>
-
-| # | Project | Description | Stack | Status |
-|:-:|:--------|:------------|:------|:------:|
-| 01 | 🤖 **[BlogPilot AI](https://github.com/joydebnathjds-offical/blogpilot-ai)** | AI-powered blog content generator | Next.js · OpenAI · MongoDB | 🟢 Live |
-| 02 | 🎨 **[AI Image Generator](https://github.com/joydebnathjds-offical/ai-image-generator)** | Text-to-image via Stable Diffusion | React · Python · Firebase | 🟢 Live |
-| 03 | 🔧 **[Chrome Extension Toolkit](https://github.com/joydebnathjds-offical/chrome-extension-toolkit)** | Dev productivity extensions bundle | JS · Chrome APIs | 🟡 Beta |
-| 04 | 🌐 **[Portfolio Website](https://github.com/joydebnathjds-offical/portfolio-website)** | Personal portfolio with animations | Next.js · Tailwind · Framer | 🟢 Live |
-| 05 | ✍️ **[The Blog Arena](https://agent-clone-84410621.figma.site/)** | Tech blogging platform | WordPress · Custom Theme | 🟢 Live |
 
 ---
 
