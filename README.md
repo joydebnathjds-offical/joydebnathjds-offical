@@ -1,11 +1,15 @@
 <div align="center">
+
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Joy%20Debnath&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Blogger%20%7C%20Entrepreneur&descAlignY=60&descSize=18&descColor=8b949e" />
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+the+Future+with+Code+%F0%9F%9A%80;Full+Stack+%7C+AI+%7C+SaaS+%7C+Open+Source;Turning+Ideas+into+Digital+Reality+%E2%9C%A8;Passionate+Developer+%26+Entrepreneur+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+the+Future+with+Code+%F0%9F%9A%80;Full+Stack+%7C+AI+%7C+SaaS+%7C+Open+Source;Turning+Ideas+into+Digital+Reality+%E2%9C%A8;Passionate+Developer+%26+Entrepreneur+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
+
 <br/>
+
 <!-- Profile Views & Followers Badges -->
 <img src="https://komarev.com/ghpvc/?username=JoyDebnath&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;
@@ -14,14 +18,17 @@
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+
 <br/><br/>
- 
+
 </div>
+
 ---
- 
+
 ## 👨‍💻 About Me
- 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
 ```yaml
 Name       : Joy Debnath
 Location   : Bangladesh 🇧🇩
@@ -29,7 +36,7 @@ Role       : Full Stack Developer & Entrepreneur
 Focus      : AI, SaaS, Web Apps & Automation
 Available  : Open to collaborations & freelance
 ```
- 
+
 - 🔭 Currently building **AI-powered SaaS products**
 - 🌱 Learning **Advanced React, AI Integrations & Cloud**
 - 💡 Passionate about **Automation, Blogging & Open Source**
@@ -38,159 +45,190 @@ Available  : Open to collaborations & freelance
 - ✍️ Writing about tech on **[The Blog Arena](https://agent-clone-84410621.figma.site/)**
 - 📫 Reach me at **emotionalboy5904@gmail.com**
 - ⚡ Fun fact: I think in **algorithms** and dream in **code**
+
 <br clear="right"/>
+
 ---
- 
+
 ## 🎯 Current Focus
- 
+
 <div align="center">
+
 | 🔥 Area | 🛠️ What I'm Working On |
-|---------|----------------------|
+|:--------|:----------------------|
 | **AI Integrations** | Building LLM-powered web applications |
 | **Advanced React** | Mastering React Server Components & Next.js 14+ |
 | **Automation Systems** | Workflow automation with Python & APIs |
 | **Cloud Technologies** | AWS & Firebase cloud architecture |
 | **Open Source** | Contributing to developer tools & libraries |
- 
+
 </div>
+
 ---
- 
+
 ## 🛠️ Tech Stack
- 
+
 <div align="center">
+
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
+
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,firebase&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,firebase&theme=dark" />
+
 ### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,figma,vercel&theme=dark&perline=6" />
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,figma,vercel&theme=dark" />
+
 <br/>
-<div align="center">
-<!-- Tech Badges -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
- 
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
 </div>
+
 ---
- 
+
 ## 📊 GitHub Statistics
- 
+
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoyDebnath&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10&count_private=true&show=reviews,discussions_started" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=JoyDebnath&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoyDebnath&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=JoyDebnath&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" />
+
 <br/><br/>
- 
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyDebnath&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10&layout=compact&langs_count=10" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoyDebnath&theme=github_dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoyDebnath&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10&hide=stars&show=prs_merged,prs_merged_percentage" />
+
 </div>
+
 ---
- 
+
 ## 🏆 GitHub Trophies
- 
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JoyDebnath&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=JoyDebnath&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
+
 </div>
+
 ---
- 
+
 ## 📈 Contribution Activity
- 
+
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoyDebnath&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=1a1a2e" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoyDebnath&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+
 </div>
+
 ---
- 
+
 ## 🐍 Contribution Snake
- 
+
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoyDebnath/JoyDebnath/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoyDebnath/JoyDebnath/output/github-snake.svg" />
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/JoyDebnath/JoyDebnath/output/github-snake-dark.svg" />
 </picture>
-> ⚙️ **Setup:** Add a GitHub Actions workflow in your profile repo to auto-generate the snake. See [Platane/snk](https://github.com/Platane/snk) for instructions.
- 
+
+> ⚙️ **Snake Setup:** Create `.github/workflows/snake.yml` in your profile repo using [Platane/snk](https://github.com/Platane/snk) to auto-generate this daily.
+
 </div>
+
 ---
- 
+
 ## 🚀 Featured Projects
- 
+
 <div align="center">
+
 <a href="https://github.com/JoyDebnath/blogpilot-ai">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoyDebnath&repo=blogpilot-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=10" />
 </a>
 <a href="https://github.com/JoyDebnath/ai-image-generator">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoyDebnath&repo=ai-image-generator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=10" />
 </a>
+
 <a href="https://github.com/JoyDebnath/chrome-extension-toolkit">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoyDebnath&repo=chrome-extension-toolkit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=10" />
 </a>
 <a href="https://github.com/JoyDebnath/portfolio-website">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoyDebnath&repo=portfolio-website&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=10" />
 </a>
+
 </div>
+
 <br/>
+
 ### 🌟 Project Highlights
- 
+
 | Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
+|:--------|:------------|:------|:------:|
 | 🤖 **BlogPilot AI** | AI-powered blog content generator & publisher | Next.js, OpenAI, MongoDB | 🟢 Live |
 | 🎨 **AI Image Generator** | Text-to-image web app using Stable Diffusion | React, Python, Firebase | 🟢 Live |
 | 🔧 **Chrome Extension Toolkit** | Developer productivity Chrome extensions bundle | JavaScript, Chrome APIs | 🟡 Beta |
 | 🌐 **Portfolio Website** | Personal portfolio with interactive UI | Next.js, Tailwind, Framer | 🟢 Live |
 | ✍️ **The Blog Arena** | Tech blogging platform for developers | WordPress, Custom Theme | 🟢 Live |
- 
+
 ---
- 
+
 ## ⚡ Fun Facts
- 
+
 <div align="center">
+
 ```javascript
 const joyDebnath = {
-  pronouns        : "He/Him",
-  code            : ["JavaScript", "TypeScript", "Python"],
+  pronouns         : "He/Him",
+  code             : ["JavaScript", "TypeScript", "Python"],
   currentlyBuilding: "AI-powered SaaS tools 🤖",
-  lifePhilosophy  : "Build. Ship. Iterate. Repeat. 🔄",
-  hobbies         : ["Blogging ✍️", "Exploring AI 🧠", "Open Source 💻"],
-  funFact         : "I debug with console.log and I'm proud of it 😄",
-  morningRoutine  : "Coffee ☕ → GitHub → Code → Repeat",
-  superpower      : "Turning caffeine into working software 🚀"
+  lifePhilosophy   : "Build. Ship. Iterate. Repeat. 🔄",
+  hobbies          : ["Blogging ✍️", "Exploring AI 🧠", "Open Source 💻"],
+  funFact          : "I debug with console.log and I'm proud of it 😄",
+  morningRoutine   : "Coffee ☕ → GitHub → Code → Repeat",
+  superpower       : "Turning caffeine into working software 🚀"
 };
 ```
- 
+
 </div>
+
 <br/>
+
 <div align="center">
-- 🎯 I've shipped **5+ products** from idea to production
-- 🌍 I believe **open source** changes the world
-- 🤖 I think **AI + Web Dev** is the most powerful combo right now
-- 📝 I write about my developer journey & learnings
-- 🧩 I love solving complex problems with elegant solutions
-- 🌱 Constant learner — something new every single day
+
+🎯 I've shipped **5+ products** from idea to production &nbsp;|&nbsp; 🌍 I believe **open source** changes the world
+
+🤖 I think **AI + Web Dev** is the most powerful combo right now &nbsp;|&nbsp; 📝 I write about my developer journey
+
+🧩 I love solving complex problems with elegant solutions &nbsp;|&nbsp; 🌱 Constant learner — something new every day
+
 </div>
+
 ---
- 
+
 ## 🤝 Connect With Me
- 
+
 <div align="center">
+
 <a href="https://www.linkedin.com/in/joy-debnath-0315353a6/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://x.com/joydebnathjds96" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/joydebnathjds.96" target="_blank">
@@ -204,20 +242,23 @@ const joyDebnath = {
 <a href="mailto:emotionalboy5904@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <br/><br/>
- 
+
 **Let's build something amazing together! 💙**
- 
+
 *I'm always open to interesting conversations, collaboration opportunities, and new ideas.*
- 
+
 </div>
+
 ---
- 
+
 ## ☕ Support My Work
- 
+
 <div align="center">
+
 If my projects have helped you or sparked an idea, consider supporting my open-source journey!
- 
+
 <a href="https://www.buymeacoffee.com/joydebnath" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
@@ -225,21 +266,21 @@ If my projects have helped you or sparked an idea, consider supporting my open-s
 <a href="https://github.com/sponsors/JoyDebnath" target="_blank">
   <img src="https://img.shields.io/badge/GitHub%20Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" />
 </a>
+
 *Your support helps me dedicate more time to open-source projects and quality content 🙏*
- 
+
 </div>
+
 ---
- 
+
 <div align="center">
-<!-- Footer Wave -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
-<br/>
+
 **"First, solve the problem. Then, write the code." — John Johnson**
- 
+
 <br/>
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
- 
-<br/>
+
 Made with ❤️ by **Joy Debnath** &nbsp;•&nbsp; Powered by passion & ☕ coffee &nbsp;•&nbsp; © 2025
- 
+
 </div>
