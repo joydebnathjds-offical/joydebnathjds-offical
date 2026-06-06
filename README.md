@@ -1,50 +1,70 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Joy%20Debnath&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Blogger%20%7C%20Entrepreneur&descAlignY=60&descSize=18&descColor=8b949e" />
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    HEADER BANNER                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+the+Future+with+Code+%F0%9F%9A%80;Full+Stack+%7C+AI+%7C+SaaS+%7C+Open+Source;Turning+Ideas+into+Digital+Reality+%E2%9C%A8;Passionate+Developer+%26+Entrepreneur+%F0%9F%92%BC" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Joy%20Debnath&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Blogger%20%7C%20Entrepreneur&descAlignY=60&descSize=18&descColor=a8daff" />
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  TYPING ANIMATION                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Joy+Debnath!;💻+Full+Stack+Developer;🤖+AI+%26+SaaS+Builder;🚀+Turning+Ideas+Into+Products;🌱+Open+Source+Contributor" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=JoyDebnath&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               PROFILE BADGES (static - always work)   -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-58a6ff?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117" />
 &nbsp;
-<a href="https://github.com/JoyDebnath?tab=followers">
-  <img src="https://img.shields.io/github/followers/JoyDebnath?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS" />
-</a>
+<img src="https://img.shields.io/badge/AI-Enthusiast-ff6b6b?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-2dba4e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Blogger-%26%20Writer-f0883e?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0d1117" />
 
 <br/><br/>
 
+<!-- Profile views counter - komarev is always reliable -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Based+In-Bangladesh+🇧🇩-green?style=flat-square&labelColor=0d1117" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Available+For-Freelance%20%26%20Collab-58a6ff?style=flat-square&labelColor=0d1117" />
+
 </div>
+
+<br/>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" alt="Coding GIF" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ```yaml
-Name       : Joy Debnath
-Location   : Bangladesh 🇧🇩
-Role       : Full Stack Developer & Entrepreneur
-Focus      : AI, SaaS, Web Apps & Automation
-Available  : Open to collaborations & freelance
+╔══════════════════════════════════════╗
+║         JOY DEBNATH — DEVCARD        ║
+╠══════════════════════════════════════╣
+║  Name     : Joy Debnath              ║
+║  Location : Bangladesh 🇧🇩            ║
+║  Role     : Full Stack Developer     ║
+║  Focus    : AI · SaaS · Automation   ║
+║  Status   : Open to Collabs ✅        ║
+╚══════════════════════════════════════╝
 ```
 
-- 🔭 Currently building **AI-powered SaaS products**
-- 🌱 Learning **Advanced React, AI Integrations & Cloud**
+- 🔭 Building **AI-powered SaaS products** from scratch
+- 🌱 Mastering **Advanced React, AI Integrations & Cloud**
 - 💡 Passionate about **Automation, Blogging & Open Source**
-- 🚀 Building products that solve real-world problems
-- 🧠 Exploring the intersection of **AI & Web Development**
-- ✍️ Writing about tech on **[The Blog Arena](https://agent-clone-84410621.figma.site/)**
-- 📫 Reach me at **emotionalboy5904@gmail.com**
-- ⚡ Fun fact: I think in **algorithms** and dream in **code**
+- 🧠 Exploring the frontier of **AI × Web Development**
+- ✍️ Writing tech articles at **[The Blog Arena](https://agent-clone-84410621.figma.site/)**
+- 🌍 Believer that **code can change the world**
+- 📫 Contact: **emotionalboy5904@gmail.com**
+- ⚡ Fun fact: I debug with `console.log` and I'm proud of it 😄
 
 <br clear="right"/>
 
@@ -54,13 +74,13 @@ Available  : Open to collaborations & freelance
 
 <div align="center">
 
-| 🔥 Area | 🛠️ What I'm Working On |
-|:--------|:----------------------|
-| **AI Integrations** | Building LLM-powered web applications |
-| **Advanced React** | Mastering React Server Components & Next.js 14+ |
-| **Automation Systems** | Workflow automation with Python & APIs |
-| **Cloud Technologies** | AWS & Firebase cloud architecture |
-| **Open Source** | Contributing to developer tools & libraries |
+| 🔥 Area | 🛠️ What I'm Working On | 📊 Progress |
+|:--------|:----------------------|:------------|
+| 🤖 **AI Integrations** | Building LLM-powered web apps | 🟩🟩🟩🟩🟨 Advanced |
+| ⚛️ **Advanced React** | React Server Components & Next.js 14+ | 🟩🟩🟩🟩⬜ Strong |
+| ⚙️ **Automation Systems** | Python workflow automation & APIs | 🟩🟩🟩⬜⬜ Learning |
+| ☁️ **Cloud Technologies** | AWS & Firebase cloud architecture | 🟩🟩🟨⬜⬜ Growing |
+| 🌐 **Open Source** | Dev tools & library contributions | 🟩🟩🟩🟩🟩 Active |
 
 </div>
 
@@ -70,31 +90,68 @@ Available  : Open to collaborations & freelance
 
 <div align="center">
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
-
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,firebase&theme=dark" />
-
-### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,figma,vercel&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" /><br/><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" /><br/><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /><br/><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" /><br/><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /><br/><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" /><br/><sub><b>Next.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /><br/><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" /><br/><sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" /><br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" /><br/><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" /><br/><sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="48" /><br/><sub><b>WordPress</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /><br/><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" /><br/><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" /><br/><sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" /><br/><sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" /><br/><sub><b>AWS</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -102,15 +159,22 @@ Available  : Open to collaborations & freelance
 
 ## 📊 GitHub Statistics
 
+> ⚠️ **IMPORTANT:** Replace `YOUR_GITHUB_USERNAME` in the URLs below with your actual GitHub username.
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoyDebnath&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=JoyDebnath&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" />
+<!-- Stats Card - github-readme-stats (most reliable public instance) -->
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&count_private=true&include_all_commits=true" />
 
-<br/><br/>
+<!-- Streak Stats - demolab (current live host) -->
+<img height="195px" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10&stroke=0d1117" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyDebnath&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10&layout=compact&langs_count=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoyDebnath&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10&hide=stars&show=prs_merged,prs_merged_percentage" />
+</div>
+
+<div align="center">
+
+<!-- Top Languages - compact layout -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&layout=compact&langs_count=12" />
 
 </div>
 
@@ -120,35 +184,67 @@ Available  : Open to collaborations & freelance
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JoyDebnath&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
+<!-- onedark theme - most stable and always renders correctly -->
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoyDebnath&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+<!-- react-dark is a confirmed working theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=0d2137&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake Animation
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoyDebnath/JoyDebnath/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoyDebnath/JoyDebnath/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/JoyDebnath/JoyDebnath/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-> ⚙️ **Snake Setup:** Create `.github/workflows/snake.yml` in your profile repo using [Platane/snk](https://github.com/Platane/snk) to auto-generate this daily.
-
 </div>
+
+<details>
+<summary>⚙️ <b>Click here: How to enable the Snake Animation</b></summary>
+<br/>
+
+Create a file at `.github/workflows/snake.yml` inside your profile repo:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
@@ -156,18 +252,22 @@ Available  : Open to collaborations & freelance
 
 <div align="center">
 
-<a href="https://github.com/JoyDebnath/blogpilot-ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoyDebnath&repo=blogpilot-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=10" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME/blogpilot-ai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=blogpilot-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" />
 </a>
-<a href="https://github.com/JoyDebnath/ai-image-generator">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoyDebnath&repo=ai-image-generator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=10" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME/ai-image-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=ai-image-generator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" />
 </a>
 
-<a href="https://github.com/JoyDebnath/chrome-extension-toolkit">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoyDebnath&repo=chrome-extension-toolkit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=10" />
+</div>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/chrome-extension-toolkit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=chrome-extension-toolkit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" />
 </a>
-<a href="https://github.com/JoyDebnath/portfolio-website">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoyDebnath&repo=portfolio-website&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=10" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME/portfolio-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=portfolio-website&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" />
 </a>
 
 </div>
@@ -176,30 +276,33 @@ Available  : Open to collaborations & freelance
 
 ### 🌟 Project Highlights
 
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:------:|
-| 🤖 **BlogPilot AI** | AI-powered blog content generator & publisher | Next.js, OpenAI, MongoDB | 🟢 Live |
-| 🎨 **AI Image Generator** | Text-to-image web app using Stable Diffusion | React, Python, Firebase | 🟢 Live |
-| 🔧 **Chrome Extension Toolkit** | Developer productivity Chrome extensions bundle | JavaScript, Chrome APIs | 🟡 Beta |
-| 🌐 **Portfolio Website** | Personal portfolio with interactive UI | Next.js, Tailwind, Framer | 🟢 Live |
-| ✍️ **The Blog Arena** | Tech blogging platform for developers | WordPress, Custom Theme | 🟢 Live |
+| # | Project | Description | Tech Stack | Status |
+|:-:|:--------|:------------|:-----------|:------:|
+| 01 | 🤖 **[BlogPilot AI](https://github.com/YOUR_GITHUB_USERNAME/blogpilot-ai)** | AI-powered blog content generator & auto-publisher | Next.js · OpenAI · MongoDB | 🟢 Live |
+| 02 | 🎨 **[AI Image Generator](https://github.com/YOUR_GITHUB_USERNAME/ai-image-generator)** | Text-to-image app using Stable Diffusion API | React · Python · Firebase | 🟢 Live |
+| 03 | 🔧 **[Chrome Extension Toolkit](https://github.com/YOUR_GITHUB_USERNAME/chrome-extension-toolkit)** | Dev productivity Chrome extensions bundle | JS · Chrome APIs | 🟡 Beta |
+| 04 | 🌐 **[Portfolio Website](https://github.com/YOUR_GITHUB_USERNAME/portfolio-website)** | Personal portfolio with interactive animations | Next.js · Tailwind · Framer | 🟢 Live |
+| 05 | ✍️ **[The Blog Arena](https://agent-clone-84410621.figma.site/)** | Tech blogging platform for developers | WordPress · Custom Theme | 🟢 Live |
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Fun Facts & Personality
 
 <div align="center">
 
 ```javascript
 const joyDebnath = {
-  pronouns         : "He/Him",
+  pronouns         : "He / Him",
+  location         : "Bangladesh 🇧🇩",
   code             : ["JavaScript", "TypeScript", "Python"],
   currentlyBuilding: "AI-powered SaaS tools 🤖",
-  lifePhilosophy   : "Build. Ship. Iterate. Repeat. 🔄",
+  lifePhilosophy   : "Build → Ship → Iterate → Repeat 🔄",
   hobbies          : ["Blogging ✍️", "Exploring AI 🧠", "Open Source 💻"],
   funFact          : "I debug with console.log and I'm proud of it 😄",
   morningRoutine   : "Coffee ☕ → GitHub → Code → Repeat",
-  superpower       : "Turning caffeine into working software 🚀"
+  superpower       : "Turning caffeine into working software 🚀",
+  askMeAbout       : ["React", "Next.js", "AI APIs", "SaaS", "Chrome Extensions"],
+  currentlyLearning: ["Advanced React", "AI Integrations", "Cloud Architecture"],
 };
 ```
 
@@ -209,11 +312,11 @@ const joyDebnath = {
 
 <div align="center">
 
-🎯 I've shipped **5+ products** from idea to production &nbsp;|&nbsp; 🌍 I believe **open source** changes the world
+🎯 Shipped **5+ products** from idea to production &nbsp;&nbsp;|&nbsp;&nbsp; 🌍 Open source believer
 
-🤖 I think **AI + Web Dev** is the most powerful combo right now &nbsp;|&nbsp; 📝 I write about my developer journey
+🤖 Thinks **AI + Web Dev** = most powerful combo &nbsp;&nbsp;|&nbsp;&nbsp; 📝 Writes about the dev journey
 
-🧩 I love solving complex problems with elegant solutions &nbsp;|&nbsp; 🌱 Constant learner — something new every day
+🧩 Loves elegant solutions to complex problems &nbsp;&nbsp;|&nbsp;&nbsp; 🌱 Learns something new every single day
 
 </div>
 
@@ -224,30 +327,30 @@ const joyDebnath = {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/joy-debnath-0315353a6/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Joy%20Debnath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://x.com/joydebnathjds96" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter%2FX-%40joydebnathjds96-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=111" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/joydebnathjds.96" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://agent-clone-84410621.figma.site/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:emotionalboy5904@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-Joy%20Debnath-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-**Let's build something amazing together! 💙**
+<a href="https://agent-clone-84410621.figma.site/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="mailto:emotionalboy5904@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-emotionalboy5904%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
 
-*I'm always open to interesting conversations, collaboration opportunities, and new ideas.*
+<br/><br/>
+
+> 💬 *"I'm always open to interesting conversations, collaboration opportunities, and exciting new ideas."*
 
 </div>
 
@@ -257,17 +360,21 @@ const joyDebnath = {
 
 <div align="center">
 
-If my projects have helped you or sparked an idea, consider supporting my open-source journey!
+*If my work has helped you or sparked an idea, consider supporting my open-source journey!*
+
+<br/>
 
 <a href="https://www.buymeacoffee.com/joydebnath" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20My%20Work-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=1a1a1a" />
 </a>
-&nbsp;
-<a href="https://github.com/sponsors/JoyDebnath" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+&nbsp;&nbsp;
+<a href="https://github.com/sponsors/YOUR_GITHUB_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/💖%20GitHub%20Sponsors-Become%20a%20Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=0d1117" />
 </a>
 
-*Your support helps me dedicate more time to open-source projects and quality content 🙏*
+<br/><br/>
+
+*Every coffee and star ⭐ motivates me to build better things for the community 🙏*
 
 </div>
 
@@ -275,12 +382,19 @@ If my projects have helped you or sparked an idea, consider supporting my open-s
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
-
-**"First, solve the problem. Then, write the code." — John Johnson**
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" />
 
 <br/>
 
-Made with ❤️ by **Joy Debnath** &nbsp;•&nbsp; Powered by passion & ☕ coffee &nbsp;•&nbsp; © 2025
+**✨ "First, solve the problem. Then, write the code." — John Johnson ✨**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-ff6b6b?style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/By-Joy%20Debnath-58a6ff?style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/© 2025-All%20Rights%20Reserved-2dba4e?style=flat-square&labelColor=0d1117" />
 
 </div>
