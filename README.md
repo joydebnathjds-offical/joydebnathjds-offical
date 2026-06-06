@@ -147,13 +147,33 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joydebnathjds-offical&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="180em" src="https://streak-stats.demolab.com?user=joydebnathjds-offical&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" />
+<!-- Streak Stats — confirmed working ✅ -->
+<img src="https://streak-stats.demolab.com?user=joydebnathjds-offical&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" />
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydebnathjds-offical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&layout=compact&langs_count=12" />
+<!-- Static skill level badges — always render, zero API dependency -->
+<img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Next.js-Advanced-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Coding%20Since-2023-58a6ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-ff6b6b?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Projects%20Shipped-5%2B-2dba4e?style=flat-square&logo=rocket&logoColor=white&labelColor=0d1117" />
 
 </div>
 
