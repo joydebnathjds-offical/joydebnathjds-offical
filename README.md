@@ -188,16 +188,22 @@ Available  : Open to collaborations & freelance
 
 ## ⚡ Fun Facts
 
+<div align="center">
+
+```javascript
 const joyDebnath = {
-  pronouns          : "He/Him",
-  code              : ["JavaScript", "TypeScript", "Python"],
-  currentlyBuilding : "AI-powered SaaS tools 🤖",
-  lifePhilosophy    : "Build. Ship. Iterate. Repeat. 🔄",
-  hobbies           : ["Blogging ✍️", "Exploring AI 🧠", "Open Source 💻"],
-  funFact           : "I debug with console.log and I'm proud of it 😄",
-  morningRoutine    : "Coffee ☕ → GitHub → Code → Repeat",
-  superpower        : "Turning caffeine into working software 🚀"
+  pronouns         : "He/Him",
+  code             : ["JavaScript", "TypeScript", "Python"],
+  currentlyBuilding: "AI-powered SaaS tools 🤖",
+  lifePhilosophy   : "Build. Ship. Iterate. Repeat. 🔄",
+  hobbies          : ["Blogging ✍️", "Exploring AI 🧠", "Open Source 💻"],
+  funFact          : "I debug with console.log and I'm proud of it 😄",
+  morningRoutine   : "Coffee ☕ → GitHub → Code → Repeat",
+  superpower       : "Turning caffeine into working software 🚀"
 };
+```
+
+</div>
 
 <br/>
 
